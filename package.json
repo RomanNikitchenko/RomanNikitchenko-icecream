@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://RomanNikitchenko.github.io/icecream",
+  "homepage": "https://romannikitchenko.github.io/icecream",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /icecream/"
